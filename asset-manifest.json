@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.d4ce1673.css",
-    "main.js": "/static/js/main.2888b136.js",
-    "static/js/787.ede7ba90.chunk.js": "/static/js/787.ede7ba90.chunk.js",
-    "index.html": "/index.html",
-    "main.d4ce1673.css.map": "/static/css/main.d4ce1673.css.map",
-    "main.2888b136.js.map": "/static/js/main.2888b136.js.map",
-    "787.ede7ba90.chunk.js.map": "/static/js/787.ede7ba90.chunk.js.map"
+    "main.css": "/fast-date-React.github.io/static/css/main.d4ce1673.css",
+    "main.js": "/fast-date-React.github.io/static/js/main.61cfc1bf.js",
+    "static/js/787.ede7ba90.chunk.js": "/fast-date-React.github.io/static/js/787.ede7ba90.chunk.js",
+    "index.html": "/fast-date-React.github.io/index.html",
+    "main.d4ce1673.css.map": "/fast-date-React.github.io/static/css/main.d4ce1673.css.map",
+    "main.61cfc1bf.js.map": "/fast-date-React.github.io/static/js/main.61cfc1bf.js.map",
+    "787.ede7ba90.chunk.js.map": "/fast-date-React.github.io/static/js/787.ede7ba90.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d4ce1673.css",
-    "static/js/main.2888b136.js"
+    "static/js/main.61cfc1bf.js"
   ]
 }
