@@ -1,2 +1,2 @@
-#Fast-date web-page
-Using React, Bootstrap
+# Fast-date web-page
+**Using React, Bootstrap**
